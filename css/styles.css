@@ -170,7 +170,7 @@ h3 {
   padding-left: 7px;
 }
 
-@media (min-width:480px) {
+@media (max-width:480px) {
   #title{
     text-align: center;
   }
